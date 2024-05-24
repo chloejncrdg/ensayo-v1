@@ -1,0 +1,128 @@
+[
+    {
+        "courseSectionId": 1,
+        "title": "Electrical and Electronics",
+        "courses": [
+            {
+                "courseId": 1,
+                "title": "Electrical Installation and Maintenance",
+                "image": "/assets/eim.jpg",
+                "modules": [
+                    {
+                        "moduleId": 4, 
+                        "title": "Installing Wiring Devices for Floor and Wall Mounted Outlets, Lighting Fixtures, Switches, and Auxiliary Outlets",
+                        "image": "/assets/eim.jpg",
+                        "units": [
+                            {
+                                "unitId": 1,
+                                "title": "Installing Lighting Fixtures/Luminaries and Switches",
+                                "image": "/assets/eim.jpg",
+                                "toolGroup": [
+                                    {
+                                        "toolGroupId": 1,
+                                        "title": "Lamps",
+                                        "image": "/assets/eim.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 1,
+                                                "name": "Incandescent",
+                                                "modelPath": "incandescent"
+                                            },
+                                            {
+                                                "toolId": 2,
+                                                "name": "Tungsten-Halogen",
+                                                "modelPath": "tungsten-halogen"
+                                            },
+                                            {
+                                                "toolId": 3,
+                                                "name": "Compact Fluorescent Lamps",
+                                                "modelPath": "cfl"
+                                            },
+                                            {
+                                                "toolId": 4,
+                                                "name": "Fluorescent Lamps",
+                                                "modelPath": "fluorescent-lamps"
+                                            },
+                                            {
+                                                "toolId": 5,
+                                                "name": "High Intensity Discharge",
+                                                "modelPath": "hid"
+                                            },
+                                            {
+                                                "toolId": 6,
+                                                "name": "Light Emitting Diode (LED) Lamps",
+                                                "modelPath": "led-lamps"
+                                            }
+
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 2,
+                                        "title": "Types of Lighting Fixtures",
+                                        "image": "/assets/eim.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 7,
+                                                "name": "Surface Mounted Fixtures",
+                                                "modelPath": "sm-fixtures"
+                                            },
+                                            {
+                                                "toolId": 8,
+                                                "name": "Pendant Fixtures",
+                                                "modelPath": "pendant-fixtures"
+                                            },
+                                            {
+                                                "toolId": 9,
+                                                "name": "Recessed Lighting",
+                                                "modelPath": "recessed-lighting"
+                                            },
+                                            {
+                                                "toolId": 10,
+                                                "name": "Track Lighiting",
+                                                "modelPath": "track-lighting"
+                                            },
+                                            {
+                                                "toolId": 11,
+                                                "name": "Portable Fixtures",
+                                                "modelPath": "portable-fixtures"
+                                            },
+                                            {
+                                                "toolId": 12,
+                                                "name": "Outdoor Lighting Fixtures",
+                                                "modelPath": "ol-fixtures"
+                                            }
+
+                                        ]
+                                    }
+                                ],
+
+                                "practicalGroup": [ 
+                                    {
+                                        "practicalGroupId": 1,
+                                        "title": "Installing Recessed Lighting Fixtures",
+                                        "image": "/assets/eim.jpg",
+                                        "steps": 5
+                                    },
+                                    {
+                                        "practicalGroupId": 2,
+                                        "title": "Installing Track Lighting Fixtures",
+                                        "image": "/assets/eim.jpg",
+                                        "steps": 10
+                                    },
+                                    {
+                                        "practicalGroupId": 3,
+                                        "title": "Installing Fluorescent Lighting Fixtures",
+                                        "image": "/assets/eim.jpg",
+                                        "steps": 12
+                                    }
+
+                                ]
+                            }
+                        ]
+
+                    }
+                ]
+            }
+        ]
+    }
+]
